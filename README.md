@@ -95,6 +95,9 @@ Vdc = 1
 
 Expected Waveform:
 
-Transient Analysis: image RESULT:
+Transient Analysis:
+![331264316-6936f930-0188-4409-886f-a0200a7a258a](https://github.com/alwaysajay3011/VLSI-LAB-EXP-6/assets/161150132/23cc7006-18cb-43cc-91bf-59749b03c1c5)
+
+RESULT:
 
 Thus, the design,simulation and verification of the CMOS inverter,NAND,NOR from schematic using cadence was successfully completed.
